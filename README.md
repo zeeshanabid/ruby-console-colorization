@@ -1,5 +1,5 @@
 # ruby-console-colorization
-A simple colorization utility for console applications.
+A simple ruby colorization class for console applications.
 
 # Examples
 
